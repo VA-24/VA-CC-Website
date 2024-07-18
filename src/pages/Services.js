@@ -45,7 +45,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$25 for first two edits</li>
                                     <li class='pb-2 text-neutral-600'>$10 for each additional edit thereafter</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-neutral-600 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
@@ -53,7 +53,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$35 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$15 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-neutral-600 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
                                     
                                 </div>
                         </div>
@@ -64,7 +64,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$20 for first two edits</li>
                                     <li class='pb-2 text-neutral-600'>$7.50 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-neutral-600 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
@@ -72,7 +72,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$30 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$12.50 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-neutral-600 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
                                     
                                 </div>
                         </div>
@@ -89,7 +89,7 @@ function Services(){
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom sessions</h3> 
                                     <li class='pb-2 text-neutral-600'>$25 per session (regardless of length)</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
-                                    <li class='text-neutral-600 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
                                     
                                 </div>
                         </div>
@@ -105,13 +105,15 @@ function Services(){
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom interview sessions</h3> 
                                     <li class='pb-2 text-neutral-600'>$20 per session (regardless of length)</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
-                                    <li class='text-neutral-600 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
                                     
                                 </div>
                         </div>
                     </div>
 
                 </a>
+
+                <div class='h-[20vh]'></div>
 
 
             </section>
