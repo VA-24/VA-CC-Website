@@ -24,24 +24,27 @@ function Services(){
                 </main>
 
                 <section id='projects' class='w-full h-full flex flex-col items-center gap-1'>
-                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg lg:max-w-3xl xl:max-w-6xl h-[60vh] lg:h-[75vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-12 lg:px-6 xl:px-12 xl:py-12 mt-8 bg-white rounded-xl' href='https://pavedai.tech/'>
+                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg lg:max-w-3xl xl:max-w-6xl h-[60vh] lg:h-[75vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-12 lg:px-6 xl:px-12 xl:py-12 mt-8 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Essays</h3>
-                        <p class='text-base xl:text-med 2xl:text-med text-neutral-700'>Solidify your Common App/supplemental essays via asynchronous or live sessions. Simply fill out a google form and I'll get back to you within 24 hours with my edits. A week later, send me your improved essay and I'll add my final comments. Additional edits past the first two are available for extra cost.</p>
+                        <p class='text-base lg:text-lg 2lg:text-lg text-neutral-700'>Solidify your Common App/supplemental essays via asynchronous or live sessions. Simply fill out a google form and I'll get back to you within 24 hours with my edits. A week later, send me your improved essay and I'll add my final comments. Additional edits past the first two are available for extra cost.</p>
+                        <div class='flex flex-row'>
+                                <div class='flex flex'></div>
+                        </div>
                     </div>
                 </a>
 
-                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg lg:max-w-3xl xl:max-w-6xl h-[60vh] lg:h-[75vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 justify-start gap-8 px-4 py-12 lg:px-6 xl:px-12 xl:py-24 bg-white rounded-xl' href='https://mints.utdallas.edu/'>
+                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg lg:max-w-3xl xl:max-w-6xl h-[60vh] lg:h-[75vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 justify-start gap-8 px-4 py-12 lg:px-6 xl:px-12 xl:py-24 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
-                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Counseling</h3>
+                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center justify-center'>Counseling</h3>
                         <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'></p>
                     </div>
                 </a>
 
-                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg lg:max-w-3xl xl:max-w-6xl h-[60vh] lg:h-[75vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 justify-start gap-8 px-4 py-12 lg:px-6 xl:px-12 xl:py-24 mb-20 bg-white rounded-xl' href='https://metrohacks.dev/'>
+                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg lg:max-w-3xl xl:max-w-6xl h-[60vh] lg:h-[75vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 justify-start gap-8 px-4 py-12 lg:px-6 xl:px-12 xl:py-24 mb-20 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
-                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black'>Interviews</h3>
-                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>Organized virtual international hackathons with over 2,500+ hackers from 30+ countries and $150,000+ in sponsorships.</p>
+                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Interviews</h3>
+                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'></p>
                     </div>
 
                 </a>
