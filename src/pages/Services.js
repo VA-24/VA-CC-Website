@@ -72,7 +72,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$30 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$12.50 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/CpUDzSFyyvQhn6Tp9'>REGISTER</a></li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/CpUDzSFyyvQhn6Tp9' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
@@ -89,7 +89,7 @@ function Services(){
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom sessions</h3> 
                                     <li class='pb-2 text-neutral-600'>$25 per session (regardless of length)</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
-                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/iDcwvY2sBCNb4Mgt7' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
@@ -99,13 +99,13 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl' data-aos='fade-up'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Interviews</h3>
-                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>Schedule realistic mock interviews and learn how to respond to the same questions colleges will ask you in actual interviews. Payments made through PayPal or Venmo.</p>
+                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>Schedule realistic mock interviews and learn to respond to the same questions colleges will ask you in actual interviews as I ask you common questions and provide real-time feedback on your answers. Payments made through PayPal or Venmo.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom interview sessions</h3> 
                                     <li class='pb-2 text-neutral-600'>$20 per session (regardless of length)</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
-                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/SMwrZBvNFFgp7LRp8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
@@ -113,7 +113,10 @@ function Services(){
 
                 </a>
 
-                <div class='h-[20vh]'></div>
+                <div class='h-[15vh]'></div>
+                <div class='bg-white w-full flex flex-col justify-center items-center'>
+                    <p class='text-xs text-neutral-600 mb-2'>© 2024 VA // Website made with ReactJS and TailwindCSS</p>
+                </div>
 
 
             </section>
