@@ -81,7 +81,7 @@ function Home(){
                 <div class='p-2 mt-10 w-1/3 lg:w-1/6 rounded-lg shadow-lg flex flex-col items-center border border-yellow-600'>
                     <h3 class='text-xl xl:text-3xl font-bold text-yellow-600'>
                         <a href='/services'>
-                        Read more
+                        More →
                         </a>
                     </h3>
                 </div>

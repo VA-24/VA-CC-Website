@@ -34,8 +34,8 @@ function Services(){
                 <section id='projects' class='w-full h-full flex flex-col items-center gap-1'>
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
-                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Essays</h3>
-                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Solidify your Common App/supplemental essays via asynchronous or live sessions. Simply fill out a google form and I'll get back to you within 24 hours with my edits (I'll also follow up with a zoom meeting request if you choose the live edit option). A week later, send me your improved essay and I'll add my final comments. Payments made through PayPal or Venmo.</p>
+                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Common App Essays</h3>
+                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Solidify your Common App essays via asynchronous or live sessions. Simply fill out a google form and I'll get back to you within 24 hours with my edits (I'll also follow up with a zoom meeting request if you choose the live edit option). A week later, send me your improved essay and I'll add my final comments. Payments made through PayPal or Venmo.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <div class='flex items-center'>
@@ -49,7 +49,7 @@ function Services(){
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
-                                    <h3 class='pb-2 font-medium'>Live Common App essay edits</h3>
+                                    <h3 class='pb-2 font-medium'>Common App essay edits + Zoom</h3>
                                     <li class='pb-2 text-neutral-600'>$35 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$15 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
@@ -58,6 +58,15 @@ function Services(){
                                 </div>
                         </div>
 
+
+
+                    </div>
+                </a>
+
+                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl'>
+                    <div class='flex flex-col gap-4'>
+                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Supplemental Essays</h3>
+                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Solidify your supplemental essays for each college via asynchronous or live sessions. Simply fill out a google form and I'll get back to you within 24 hours with my edits (I'll also follow up with a zoom meeting request if you choose the live edit option). A week later, send me your improved essay and I'll add my final comments. Payments made through PayPal or Venmo.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-lg xl:text-lg mt-8 md:mt-4' data-aos='zoom-in' data-aos-delay='300'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Asynchronous supplemental essay edits</h3>
@@ -68,7 +77,7 @@ function Services(){
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
-                                    <h3 class='pb-2 font-medium'>Live supplemental essay edits</h3>
+                                    <h3 class='pb-2 font-medium'>Supplemental essay edits + Zoom</h3>
                                     <li class='pb-2 text-neutral-600'>$30 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$12.50 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
@@ -76,6 +85,8 @@ function Services(){
                                     
                                 </div>
                         </div>
+
+
 
                     </div>
                 </a>
