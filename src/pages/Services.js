@@ -35,7 +35,7 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Essays</h3>
-                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Solidify your Common App/supplemental essays via asynchronous or live sessions. Simply fill out a google form and I'll get back to you within 24 hours with my edits. A week later, send me your improved essay and I'll add my final comments. Payments made through PayPal.</p>
+                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Solidify your Common App/supplemental essays via asynchronous or live sessions. Simply fill out a google form and I'll get back to you within 24 hours with my edits (I'll also follow up with a zoom meeting request if you choose the live edit option). A week later, send me your improved essay and I'll add my final comments. Payments made through PayPal or Venmo.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <div class='flex items-center'>
@@ -45,7 +45,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$25 for first two edits</li>
                                     <li class='pb-2 text-neutral-600'>$10 for each additional edit thereafter</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/3WCW1cgTTG88ri9W8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
@@ -53,7 +53,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$35 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$15 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
@@ -64,7 +64,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$20 for first two edits</li>
                                     <li class='pb-2 text-neutral-600'>$7.50 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/Y9i4g3M13oUfKc1C8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
@@ -72,7 +72,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$30 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$12.50 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-blue-800 font-medium underline'>REGISTER</li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/CpUDzSFyyvQhn6Tp9'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
@@ -83,7 +83,7 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl' data-aos='fade-up'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center justify-center'>Counseling</h3>
-                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Schedule meetings to discuss extracurricular involvement, chart out a course to get your essays in on-time, edit sections of your Common App portal, decide on colleges to apply to, go over your resume, and more.  Payments made through PayPal.</p>
+                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Schedule meetings to discuss extracurricular involvement, chart out a course to get your essays in on-time, edit sections of your Common App portal, decide on colleges to apply to, go over your resume, and more. Payments made through PayPal or Venmo.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom sessions</h3> 
@@ -99,7 +99,7 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl' data-aos='fade-up'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Interviews</h3>
-                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>Schedule realistic mock interviews and learn how to respond to the same questions colleges will ask you in actual interviews. </p>
+                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>Schedule realistic mock interviews and learn how to respond to the same questions colleges will ask you in actual interviews. Payments made through PayPal or Venmo.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom interview sessions</h3> 

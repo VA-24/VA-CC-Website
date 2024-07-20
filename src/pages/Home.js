@@ -61,10 +61,6 @@ function Home(){
                 </section>
                 </div>
 
-                {/* <div class='bg-gradient-to-t from-blue-800 to bg-neutral-200 w-full h-10'>
-
-                </div> */}
-
                 <div class='bg-blue-800 w-full flex flex-col items-center py-8'>
                 <div class='w-full max-w-6xl flex flex-col lg:flex-row justify-center gap-10 mt-8'>
                     <div class='p-6 w-full lg:w-1/3 rounded-lg shadow-lg flex flex-col items-center border border-yellow-600' data-aos='zoom-in' data-aos-delay='100'>
@@ -91,7 +87,6 @@ function Home(){
                 </div>
                 
                 </div>
-
                 
                 
 
