@@ -46,7 +46,11 @@ function Home(){
                         </h3>
 
                         <p class='text-base sm:text-med text-neutral-600'>
-                        I’m a recent graduate of St. Mark’s School of Texas and a rising freshman at the University of Pennsylvania, where I will obtain dual degrees in finance from Wharton and electrical engineering from the School of Engineering through the M&T program. Having just wrapped my senior year, I know all-too-well the stresses that come with college apps. Through copious amounts of research, I was fortunate enough to develop a robust gameplan that assisted me through the strenuous process and got me to the finish line with a 100% acceptance rate into the colleges I opened decisions from. I’m eager to share my advice and skills with you for just a fraction of the cost of other professional services.
+                        I’m a recent graduate of St. Mark’s School of Texas and a rising freshman at the University of Pennsylvania, where I will obtain dual degrees in finance from Wharton and electrical engineering from the School of Engineering through the M&T program. 
+                        </p>
+
+                        <p class='text-base sm:text-med text-neutral-600'>
+                        Having just wrapped my senior year, I know all-too-well the stresses that come with college apps. Through copious amounts of research, I was fortunate enough to develop a robust gameplan that assisted me through the strenuous process and got me to the finish line with a 100% acceptance rate into the colleges I opened decisions from. I’m eager to share my advice and skills with you for just a fraction of the cost of other professional services.
                         </p>
 
                         <h3 class='text-xl xl:text-xl font-medium text-blue-800'>
