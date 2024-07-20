@@ -6,6 +6,7 @@ import '../App.css';
 AOS.init({
     duration: 1000, // duration of the animation in milliseconds
     easing: 'ease-in-out', // easing function for the animation
+    once: true
   });
 
 
