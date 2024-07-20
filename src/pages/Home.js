@@ -89,7 +89,7 @@ function Home(){
                 </div>
 
                 <div class='bg-blue-800 w-full flex flex-col justify-center items-center'>
-                    <p class='text-xs text-white mb-2'>© 2024 VA // Website made with ReactJS and TailwindCSS</p>
+                    <p class='text-xs text-white mb-2'>© 2024 Agni CC // Website made with ReactJS and TailwindCSS</p>
                 </div>
 
                 
