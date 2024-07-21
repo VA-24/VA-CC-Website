@@ -32,6 +32,8 @@ function Services(){
 
                 </main>
 
+                <h3 class='font-medium text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl text-black text-center pb-4'>Scroll to the bottom for all services!</h3>
+
                 <section id='projects' class='w-full h-full flex flex-col items-center gap-1'>
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
