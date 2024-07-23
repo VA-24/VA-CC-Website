@@ -34,6 +34,24 @@ function Services(){
 
                 <h3 class='font-medium text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl text-black text-center pb-4'>Scroll to the bottom to see all services!</h3>
 
+                <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl' data-aos='fade-up'>
+                    <div class='flex flex-col gap-4'>
+                        <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>All-inclusive counseling package</h3>
+                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>An offer truly like none other on the market, take full advantage of my services with this package. Rehash your essays, ask me virtually anything about your college journey, and schedule mock interviews. Other similar services offered by counselors fall in the range of $3,000 - $5,000 dollars. For any questions or concerns, email me at va648314@gmail.com. Payments made through PayPal.</p>
+                        <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
+                                <div class='flex flex-col min-h-[200px]'>
+                                    <h3 class='pb-2 mt-2 font-medium'>Live Zoom counseling sessions (schedule whenever/no time limit!)</h3> 
+                                    <h3 class='pb-2 mt-2 font-medium'>Live Zoom essay edits (schedule whenever/no time limit!)</h3> 
+                                    <h3 class='pb-2 mt-2 font-medium'>Live Zoom mock interviews (schedule whenever/no time limit!)</h3> 
+                                    <li class='pb-2 text-neutral-600'>$500 fixed-fee (can pay in installments)</li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/SMwrZBvNFFgp7LRp8' target='_blank'>REGISTER</a></li>
+                                    
+                                </div>
+                        </div>
+                    </div>
+
+                </a>
+
                 <section id='projects' class='w-full h-full flex flex-col items-center gap-1'>
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
@@ -126,6 +144,7 @@ function Services(){
                     </div>
 
                 </a>
+                
 
                 <div class='h-[15vh]'></div>
                 <div class='bg-white w-full flex flex-col justify-center items-center'>
