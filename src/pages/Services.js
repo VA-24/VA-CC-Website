@@ -48,7 +48,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>Live Zoom essay edits (schedule whenever/no time limit!)</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom mock interviews (schedule whenever/no time limit!)</li> 
                                     <li class='pb-2 text-neutral-600'>$500 fixed-fee (can pay in installments)</li>
-                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/SMwrZBvNFFgp7LRp8' target='_blank'>REGISTER</a></li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/UNsxMGsx3nvJyqLC6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
