@@ -66,18 +66,18 @@ function Services(){
                                         <h3 class='pb-2 font-medium'>Asynchronous Common App essay edits</h3> 
 
                                     </div>
-                                    <li class='pb-2 text-neutral-600'>$25 for first two edits</li>
-                                    <li class='pb-2 text-neutral-600'>$10 for each additional edit thereafter</li>
+                                    <li class='pb-2 text-neutral-600'>$35 for first two edits</li>
+                                    <li class='pb-2 text-neutral-600'>$20 for each additional edit thereafter</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/3WCW1cgTTG88ri9W8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Common App essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$35 for first two edits + Zoom sessions</li>
-                                    <li class='pb-2 text-neutral-600'>$15 for each additional edit</li>
+                                    <li class='pb-2 text-neutral-600'>$50 for first two edits + Zoom sessions</li>
+                                    <li class='pb-2 text-neutral-600'>$25 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https  ://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
@@ -94,16 +94,16 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-lg xl:text-lg mt-8 md:mt-4' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Asynchronous supplemental essay edits</h3>
-                                    <li class='pb-2 text-neutral-600'>$20 for first two edits</li>
-                                    <li class='pb-2 text-neutral-600'>$7.50 for each additional edit</li>
+                                    <li class='pb-2 text-neutral-600'>$30 for first two edits</li>
+                                    <li class='pb-2 text-neutral-600'>$15 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/Y9i4g3M13oUfKc1C8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Supplemental essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$30 for first two edits + Zoom sessions</li>
-                                    <li class='pb-2 text-neutral-600'>$12.50 for each additional edit</li>
+                                    <li class='pb-2 text-neutral-600'>$40 for first two edits + Zoom sessions</li>
+                                    <li class='pb-2 text-neutral-600'>$25 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/CpUDzSFyyvQhn6Tp9' target='_blank'>REGISTER</a></li>
                                     
@@ -122,7 +122,7 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom sessions</h3> 
-                                    <li class='pb-2 text-neutral-600'>$25 per session (no time limit!)</li>
+                                    <li class='pb-2 text-neutral-600'>$30 per session (no time limit!)</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/iDcwvY2sBCNb4Mgt7' target='_blank'>REGISTER</a></li>
                                     
@@ -138,7 +138,7 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom interview sessions</h3> 
-                                    <li class='pb-2 text-neutral-600'>$20 per session (no time limit!)</li>
+                                    <li class='pb-2 text-neutral-600'>$25 per session (no time limit!)</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/SMwrZBvNFFgp7LRp8' target='_blank'>REGISTER</a></li>
                                     
