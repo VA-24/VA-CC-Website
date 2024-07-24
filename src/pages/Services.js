@@ -77,7 +77,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>$50 for first two edits + Zoom sessions</li>
                                     <li class='pb-2 text-neutral-600'>$25 for each additional edit</li>
                                     <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
-                                    <li class='text-blue-800 font-medium underline'><a href='https  ://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
+                                    <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                         </div>
