@@ -47,7 +47,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>Live Zoom counseling sessions (schedule whenever/no time limit!)</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom essay edits (schedule whenever/no time limit!)</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom mock interviews (schedule whenever/no time limit!)</li> 
-                                    <li class='pb-2 text-neutral-600'>$600 fixed-fee (can pay in installments)</li>
+                                    <li class='pb-2 text-neutral-600'>$750 fixed fee (can pay in installments)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/UNsxMGsx3nvJyqLC6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
