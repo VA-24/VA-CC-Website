@@ -122,7 +122,7 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom sessions</h3> 
-                                    <li class='pb-2 text-neutral-600'>$50 per session (no time limit!)</li>
+                                    <li class='pb-2 text-neutral-600'>$60 per session (no time limit!)</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/iDcwvY2sBCNb4Mgt7' target='_blank'>REGISTER</a></li>
                                     
