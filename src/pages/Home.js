@@ -42,11 +42,11 @@ function Home(){
 </div>
                     <div class='flex flex-col gap-8'>
                         <h3 class='text-xl xl:text-3xl font-medium text-blue-800'>
-                        Hi, I’m Vardhan Agnihotri.
+                        Hi, I’m Vardhan.
                         </h3>
 
                         <p class='text-base sm:text-med text-neutral-600'>
-                        I’m a recent graduate of St. Mark’s School of Texas and a rising freshman at the University of Pennsylvania, where I will obtain dual degrees in finance from Wharton and electrical engineering from the School of Engineering through the M&T program. 
+                        I’m a recent graduate of St. Mark’s School of Texas and a freshman at the University of Pennsylvania, where I will obtain dual degrees in finance from Wharton and electrical engineering from the School of Engineering through the M&T program. 
                         </p>
 
                         <p class='text-base sm:text-med text-neutral-600'>

@@ -31,7 +31,7 @@ function Services(){
                 </nav>
 
                 </main>
-
+        
                 <h3 class='font-medium text-base md:text-lg lg:text-xl xl:text-2xl 2xl:text-3xl text-black text-center pb-4'>Scroll to the bottom to see all services!</h3>
 
 
@@ -41,13 +41,13 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl' data-aos='fade-up'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>All-inclusive counseling package</h3>
-                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>Take full advantage of my services with this package. Rehash your essays as many times as you'd like, ask me virtually anything about your college journey in Zoom calls at your convenience, and schedule mock interviews whenever you have time. For any questions, email me at va648314@gmail.com. Payments made through PayPal.</p>
+                        <p class='text-base xl:text-lg 2xl:text-xl text-neutral-700'>Take full advantage of my services with this package. Rehash your essays as many times as you'd like, ask me virtually anything about your college journey in Zoom calls at your convenience, and schedule mock interviews whenever you have time. For any questions, email me at va648314@gmail.com.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
-                                    <li class='pb-2 text-neutral-600'>Live Zoom counseling sessions (schedule whenever/no time limit!)</li> 
-                                    <li class='pb-2 text-neutral-600'>Live Zoom essay edits (schedule whenever/no time limit!)</li> 
-                                    <li class='pb-2 text-neutral-600'>Live Zoom mock interviews (schedule whenever/no time limit!)</li> 
-                                    <li class='pb-2 text-neutral-600'>$800 fixed fee (other comparable services generally fall in the $3k - $5k range)</li>
+                                    <li class='pb-2 text-neutral-600'>Live Zoom counseling sessions</li> 
+                                    <li class='pb-2 text-neutral-600'>Live Zoom essay edits</li> 
+                                    <li class='pb-2 text-neutral-600'>Live Zoom mock interviews</li> 
+                                    <li class='pb-2 text-neutral-600'>$1300 fixed fee (other comparable services generally fall in the $3k - $5k range): $650 upfront, $650 after the application season</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/UNsxMGsx3nvJyqLC6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -59,24 +59,20 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Common App Essays</h3>
-                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Comb through your Common App essays and do in-depth, quality checks for grammar, flow, voice, tone, and key content points via asynchronous or live sessions. Simply fill out a google form and receive same-day edits (I'll also follow up with a zoom meeting request if you choose the live edit option). A week later, send in your improved essay and receive my final comments. Payments made through PayPal before I get back to you with my edits.</p>
+                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Comb through your Common App essays and do in-depth, quality checks for grammar, flow, voice, tone, and key content points via asynchronous or live sessions.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <div class='flex items-center'>
                                         <h3 class='pb-2 font-medium'>Asynchronous Common App essay edits</h3> 
 
                                     </div>
-                                    <li class='pb-2 text-neutral-600'>$50 for first two edits</li>
-                                    <li class='pb-2 text-neutral-600'>$25 for each additional edit thereafter</li>
-                                    <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
+                                    <li class='pb-2 text-neutral-600'>$150 per edit</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/3WCW1cgTTG88ri9W8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Common App essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$70 for first two edits + Zoom sessions</li>
-                                    <li class='pb-2 text-neutral-600'>$35 for each additional edit</li>
-                                    <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
+                                    <li class='pb-2 text-neutral-600'>$200 per edit</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -90,21 +86,17 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center'>Supplemental Essays (Per College)</h3>
-                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Comb through your supplemental essays and do in-depth, quality checks for grammar, flow, voice, tone, and key content points via asynchronous or live sessions. Simply fill out a google form and receive same-day edits (I'll also follow up with a zoom meeting request if you choose the live edit option). A week later, send in your improved essay and receive my final comments. Payments made through PayPal before I get back to you with my edits.</p>
+                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Comb through your supplemental essays and do in-depth, quality checks for grammar, flow, voice, tone, and key content points via asynchronous or live sessions.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-lg xl:text-lg mt-8 md:mt-4' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Asynchronous supplemental essay edits</h3>
-                                    <li class='pb-2 text-neutral-600'>$60 for first two edits</li>
-                                    <li class='pb-2 text-neutral-600'>$30 for each additional edit</li>
-                                    <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
+                                    <li class='pb-2 text-neutral-600'>$160 per edit per college</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/Y9i4g3M13oUfKc1C8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Supplemental essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$80 for first two edits + Zoom sessions</li>
-                                    <li class='pb-2 text-neutral-600'>$40 for each additional edit</li>
-                                    <li class='pb-2 text-neutral-600'>sub-24 hour response time</li>
+                                    <li class='pb-2 text-neutral-600'>$240 for first two edits + Zoom sessions</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/CpUDzSFyyvQhn6Tp9' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -118,11 +110,11 @@ function Services(){
                 <a target='_blank' class='sticky z-[2] top-0 lg:top-32 [&>div>.shine]:hover:block w-full max-w-lg md:max-w-3xl lg:max-w-4xl xl:max-w-6xl h-[90vh] lg:h-[80vh] lg:max-h-[600px] flex flex-col xl:flex-row border border-blue-800 p-2 justify-start gap-8 px-4 py-8 lg:px-6 xl:px-12 xl:py-5 bg-white rounded-xl' data-aos='fade-up'>
                     <div class='flex flex-col gap-4'>
                         <h3 class='font-medium text-xl xl:text-2xl 2xl:text-3xl text-black text-center justify-center'>Counseling</h3>
-                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Brainstorm ways to get started with essays, discuss extracurricular involvement, chart out a course to get your essays in on-time, edit sections of your Common App portal, decide on colleges to apply to, go over your resume, and more. Payments made through PayPal.</p>
+                        <p class='text-neutral-700 text-sm md:text-base lg:text-lg xl:text-lg mt-2 xs:text-xs'>Brainstorm ways to get started with essays, discuss extracurricular involvement, chart out a course to get your essays in on-time, edit sections of your Common App portal, decide on colleges to apply to, go over your resume, and more.</p>
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom sessions</h3> 
-                                    <li class='pb-2 text-neutral-600'>$60 per session (no time limit!)</li>
+                                    <li class='pb-2 text-neutral-600'>$100 per session</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/iDcwvY2sBCNb4Mgt7' target='_blank'>REGISTER</a></li>
                                     
@@ -138,8 +130,7 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom interview sessions</h3> 
-                                    <li class='pb-2 text-neutral-600'>$25 per session (no time limit!)</li>
-                                    <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
+                                    <li class='pb-2 text-neutral-600'>$75 per session</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/SMwrZBvNFFgp7LRp8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
