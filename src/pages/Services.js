@@ -47,7 +47,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>Live Zoom counseling sessions</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom essay edits</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom mock interviews</li> 
-                                    <li class='pb-2 text-neutral-600'>$1300 fixed fee (other comparable services generally fall in the $3k - $5k range)</li>
+                                    <li class='pb-2 text-neutral-600'>$800 fixed fee (other comparable services generally fall in the $3k - $5k range)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/UNsxMGsx3nvJyqLC6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -66,13 +66,13 @@ function Services(){
                                         <h3 class='pb-2 font-medium'>Asynchronous Common App essay edits</h3> 
 
                                     </div>
-                                    <li class='pb-2 text-neutral-600'>$150 per edit</li>
+                                    <li class='pb-2 text-neutral-600'>$100 per edit</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/3WCW1cgTTG88ri9W8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Common App essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$200 per edit</li>
+                                    <li class='pb-2 text-neutral-600'>$150 per edit</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -90,13 +90,13 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-lg xl:text-lg mt-8 md:mt-4' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Asynchronous supplemental essay edits</h3>
-                                    <li class='pb-2 text-neutral-600'>$160 per edit per college</li>
+                                    <li class='pb-2 text-neutral-600'>$120 per edit per college</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/Y9i4g3M13oUfKc1C8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Supplemental essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$240 for first two edits + Zoom sessions</li>
+                                    <li class='pb-2 text-neutral-600'>$200 per edit per college</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/CpUDzSFyyvQhn6Tp9' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
