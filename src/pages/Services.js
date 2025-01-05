@@ -47,7 +47,7 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>Live Zoom counseling sessions</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom essay edits</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom mock interviews</li> 
-                                    <li class='pb-2 text-neutral-600'>$1000 fixed fee (other comparable services generally fall in the $3k - $5k range)</li>
+                                    <li class='pb-2 text-neutral-600'>$2000 fixed fee (other comparable services generally fall in the $3k - $5k range)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/UNsxMGsx3nvJyqLC6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
