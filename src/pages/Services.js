@@ -47,7 +47,6 @@ function Services(){
                                     <li class='pb-2 text-neutral-600'>Live Zoom counseling sessions</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom essay edits</li> 
                                     <li class='pb-2 text-neutral-600'>Live Zoom mock interviews</li> 
-                                    <li class='pb-2 text-neutral-600'>$2000 fixed fee (other comparable services generally fall in the $3k - $5k range)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/UNsxMGsx3nvJyqLC6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -66,13 +65,13 @@ function Services(){
                                         <h3 class='pb-2 font-medium'>Asynchronous Common App essay edits</h3> 
 
                                     </div>
-                                    <li class='pb-2 text-neutral-600'>$100 per edit</li>
+
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/3WCW1cgTTG88ri9W8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Common App essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$150 per edit</li>
+    
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/8VPyS5UzeXDVajPX6' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -90,13 +89,11 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-lg xl:text-lg mt-8 md:mt-4' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Asynchronous supplemental essay edits</h3>
-                                    <li class='pb-2 text-neutral-600'>$120 per edit per college</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/Y9i4g3M13oUfKc1C8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 font-medium'>Supplemental essay edits + Zoom</h3>
-                                    <li class='pb-2 text-neutral-600'>$200 per edit per college</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/CpUDzSFyyvQhn6Tp9' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -114,7 +111,6 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom sessions</h3> 
-                                    <li class='pb-2 text-neutral-600'>$100 per session</li>
                                     <li class='pb-2 text-neutral-600'>flexible scheduling (email me whenever works best for you)</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/iDcwvY2sBCNb4Mgt7' target='_blank'>REGISTER</a></li>
                                     
@@ -130,7 +126,6 @@ function Services(){
                         <div class='flex flex-row h-[25vh] lg:h-[20vh] justify-center tracking-tight gap-20 text-sm md:text-base lg:text-base xl:text-lg mt-1 xs:text-xs' data-aos='zoom-in' data-aos-delay='100'>
                                 <div class='flex flex-col min-h-[200px]'>
                                     <h3 class='pb-2 mt-2 font-medium'>Live Zoom interview sessions</h3> 
-                                    <li class='pb-2 text-neutral-600'>$75 per session</li>
                                     <li class='text-blue-800 font-medium underline'><a href='https://forms.gle/SMwrZBvNFFgp7LRp8' target='_blank'>REGISTER</a></li>
                                     
                                 </div>
@@ -142,7 +137,7 @@ function Services(){
 
                 <div class='h-[15vh]'></div>
                 <div class='bg-white w-full flex flex-col justify-center items-center'>
-                    <p class='text-xs text-neutral-600 mb-2'>© 2024 Agni CC // Website made with ReactJS and TailwindCSS</p>
+                    <p class='text-xs text-neutral-600 mb-2'>© 2025 Agni CC // Website made with ReactJS and TailwindCSS</p>
                 </div>
 
 
